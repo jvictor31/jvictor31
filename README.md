@@ -34,6 +34,6 @@ Outros: MySQL, VirtualBox, Excel, Office
 ---
 
  Contato:  
--  [LinkedIn](https://www.linkedin.com/in/joao-victor-de-souza-portella) *(adicione seu link real)*  
+-  [LinkedIn](https://www.linkedin.com/in/joao-victor-de-souza-portella)
 -  joaovictorportella@hotmail.com 
 -  [GitHub](https://github.com/jvictor31)
